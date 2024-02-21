@@ -5,7 +5,6 @@
 # Write and Read  => w+
 # Append Only => a
 # Append and Read => a+
-
 """TEXT FILES"""
 file=open("random.txt","w")
 file.write("blah blah blah")
