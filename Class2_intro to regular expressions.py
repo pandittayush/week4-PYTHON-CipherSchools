@@ -2,6 +2,7 @@ SELECT * FROM Customers
 where ContactName like "%m%"
 
 
+
 -- LIKE IS OLD
 -- We will use regexp
 
