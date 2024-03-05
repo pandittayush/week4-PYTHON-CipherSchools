@@ -11,6 +11,7 @@ file.write("blah blah blah")
 file.write("\n new line")
 file.close() #Closing a file is important because when you open a file in write mode you are blocking the operations from the processes. You have allocated a resource/blocked a resource so you should release that resource once you are done with it.
 
+
 '''Writing a file'''
 file=open("random.txt","w")
 file.write("Jatin katyal")
